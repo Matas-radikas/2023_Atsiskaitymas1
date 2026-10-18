@@ -1,4 +1,4 @@
-# 2023\_atsiskaitymas
+# 2023\-atsiskaitymas
 
 https://matas-radikas.github.io/2023_Atsiskaitymas1/
 
